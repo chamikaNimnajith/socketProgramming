@@ -1,2 +1,0 @@
-# socketProgramming
-a simple socket
